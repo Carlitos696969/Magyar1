@@ -1,0 +1,101 @@
+#EXTM3U
+EXTINF:-1,HU:2 Channel
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10134.ts
+EXTINF:-1,HU:2 Super
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10133.ts
+EXTINF:-1,HU:ATV
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10132.ts
+EXTINF:-1,HU:Cool
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10127.ts
+EXTINF:-1,HU:DIGI Film
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10101.ts
+EXTINF:-1,HU:Digi Sport 1 HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10126.ts
+EXTINF:-1,HU:Digi Sport 2 HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10125.ts
+EXTINF:-1,HU:Digi Sport 3 HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10124.ts
+EXTINF:-1,HU:DIGI World
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10123.ts
+EXTINF:-1,HU:Discovery Channel
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10122.ts
+EXTINF:-1,HU:FEM
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10121.ts
+EXTINF:-1,HU:Film
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10120.ts
+EXTINF:-1,HU:Film 2
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10119.ts
+EXTINF:-1,HU:Film Mania
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10118.ts
+EXTINF:-1,HU:FilmBox Family
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10117.ts
+EXTINF:-1,HU:FilmBox PLUS
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10116.ts
+EXTINF:-1,HU:FilmBox Premium
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10115.ts
+EXTINF:-1,HU:FilmCafe
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10114.ts
+EXTINF:-1,HU:FIX HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10113.ts
+EXTINF:-1,HU:Galaxy
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10111.ts
+EXTINF:-1,HU:HBO
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10110.ts
+EXTINF:-1,HU:HBO 2
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10109.ts
+EXTINF:-1,HU:HBO 3
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10108.ts
+EXTINF:-1,HU:Humor
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10107.ts
+EXTINF:-1,HU:Kiwi TV
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10105.ts
+EXTINF:-1,HU:M1 Hungary
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10103.ts
+EXTINF:-1,HU:M2 Hungary
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10102.ts
+EXTINF:-1,HU:M4 Sport HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10100.ts
+EXTINF:-1,HU:M5 HD
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10099.ts
+EXTINF:-1,HU:Markiza
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10098.ts
+EXTINF:-1,HU:Mozi
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10097.ts
+EXTINF:-1,HU:Nat Geo Wild
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10096.ts
+EXTINF:-1,HU:National Geographic
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10095.ts
+EXTINF:-1,HU:Ozone Network
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10094.ts
+EXTINF:-1,HU:Prime
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10093.ts
+EXTINF:-1,HU:RTL II
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10091.ts
+EXTINF:-1,HU:RTL Klub
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10090.ts
+EXTINF:-1,HU:RTL Spike
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10089.ts
+EXTINF:-1,HU:SlagerTV
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10088.ts
+EXTINF:-1,HU:Spektrum
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10086.ts
+EXTINF:-1,HU:Spektrum Home
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10085.ts
+EXTINF:-1,HU:Sport 1
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10083.ts
+EXTINF:-1,HU:Sport 2
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10082.ts
+EXTINF:-1,HU:Story 4
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10080.ts
+EXTINF:-1,HU:Story 5
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10079.ts
+EXTINF:-1,HU:SuperTV2
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10078.ts
+EXTINF:-1,HU:TV2
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10077.ts
+EXTINF:-1,HU:Viasat 3
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10076.ts
+EXTINF:-1,HU:Viasat 6
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10075.ts
+EXTINF:-1,HU:Zenebutik
+http://54.37.85.181:8000/live/ixs2/0eN41NmNAL/10104.ts
